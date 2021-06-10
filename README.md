@@ -1,3 +1,7 @@
 # Fission-and-Fusion-kmeans
 
-A draft version 1.0, will be updated soon.
+Demo.ipynb: a demo for calling our algorithm, should be opened by Jupyter notebook.
+main.py: algorithm calling.
+util.py: algorithm detail.
+
+updating...
